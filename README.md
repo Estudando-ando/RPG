@@ -35,3 +35,12 @@ Com base nas classes abstratas definidas, você pode criar várias classes concr
 
 - Implementar uma interface de texto simples para interações no jogo (opcional, para simplificação).
 - Exibir informações sobre o personagem e o inimigo, como vida e mana.
+
+## Praticando os Pilares da Programação Orientada a Objetos
+
+Neste projeto, iremos praticar os quatro pilares da Programação Orientada a Objetos (OOP):
+
+- **Abstração:** Definindo classes abstratas que servem como modelos para outras classes.
+- **Encapsulamento:** Controlando o acesso aos atributos e métodos através de modificadores de acesso.
+- **Herança:** Criando classes que herdam características e comportamentos de outras classes.
+- **Polimorfismo:** Implementando métodos que podem ter diferentes comportamentos, dependendo das classes que os implementam.
