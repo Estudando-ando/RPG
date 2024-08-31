@@ -4,7 +4,12 @@ public class Main {
     Guerreiro personagem = new Guerreiro("Gustavo", 80);
 
     System.out.println(personagem);
+
+    Mago mago = new Mago("Denner",60);
+
+    System.out.println(mago);
   }
+
 
   /*
    * criar branch 
