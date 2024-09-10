@@ -4,7 +4,8 @@ public abstract class Personagem {
   private int vida;
   private int nivel;
   private int exp;
-
+  private HabAtaque agir;
+  
   //construtor
   public Personagem(String nome, int vida){
     this.nome = nome;

@@ -8,6 +8,10 @@ public class Main {
     Mago mago = new Mago("Denner",60);
 
     System.out.println(mago);
+
+    Arqueiro arqueiro = new Arqueiro("João Gabriel",70);
+    
+    System.out.println(arqueiro);
   }
 
 
